@@ -29,7 +29,9 @@ STUDENT REGISTERED:
 ![Student Registered](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/dafd3f63-7d2b-4a57-8235-f051c781c6e5)
 
 TAKING ATTENDANCE:
-![Taking Attendance](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/ce2d73e7-8af8-420a-af95-b83a04d044f1)
+
+![Taking Attendance](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/fe108a89-bd9e-4158-8d89-897637896427)
+
 
 SHOWING ATTENDANCE TAKEN:
 ![Student Attendance Marked](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/3fb1a860-c174-408f-9061-b405c060be1a)
