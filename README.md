@@ -27,9 +27,6 @@ DOING REGISTRATION-2:
 
 STUDENT REGISTERED:
 ![Student Registered](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/dafd3f63-7d2b-4a57-8235-f051c781c6e5)
-
-TAKING ATTENDANCE:
-
 ![Taking Attendance](https://github.com/Rahulxhacker/Facial-Recognition-Attendance-System/assets/72405667/fe108a89-bd9e-4158-8d89-897637896427)
 
 
